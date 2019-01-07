@@ -1,0 +1,25 @@
+/* Comments: Volunteer Cascading Style Sheets
+File Location:
+Computer\\c:\Users\rwoods\jtec-cfh\web-site\web_css\volunteer\volunteer.css
+Dec17,18 JL Original Version
+Jan07,19 JL Revised Version
+*/
+
+body {
+  font-family: Verdana, Arial, sans-serif;
+  font-size: 80%
+}
+
+h1 {
+  border-style: solid;
+  color: blue;
+  text-align: center
+}
+
+li {
+  font-style: italic;
+}
+
+p {
+  margin-top: 2px;
+}
